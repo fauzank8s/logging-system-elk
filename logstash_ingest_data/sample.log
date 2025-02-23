@@ -1,0 +1,29 @@
+2023-08-15 13:02:15 checkout 200 120ms user1234 tx1001 Purchased iPhone 13
+2023-08-15 13:10:45 payment 500 300ms user5678 tx1002 Payment gateway error
+2023-08-15 13:15:30 checkout 404 50ms user9999 tx1003 Product not found
+2023-08-15 13:22:10 cart 200 80ms user1122 tx1004 Added item to cart
+2023-08-15 13:33:55 checkout 200 150ms user3344 tx1005 Purchased MacBook Pro
+2023-08-15 13:40:05 payment 200 250ms user5566 tx1006 Payment successful
+2023-08-15 13:47:30 checkout 500 500ms user7788 tx1007 Internal server error
+2023-08-15 13:55:20 cart 200 90ms user9900 tx1008 Added item to cart
+2023-08-15 14:03:15 checkout 200 140ms user1234 tx1009 Purchased AirPods
+2023-08-15 14:08:40 checkout 400 100ms user2233 tx1010 Invalid promo code
+2023-08-15 14:15:50 cart 200 85ms user4455 tx1011 Added item to cart
+2023-08-15 14:21:35 checkout 200 135ms user6677 tx1012 Purchased Samsung Galaxy S23
+2023-08-15 14:28:10 payment 200 260ms user8899 tx1013 Payment successful
+2023-08-15 14:34:55 checkout 500 450ms user1122 tx1014 Internal server error
+2023-08-15 14:41:25 cart 200 70ms user3344 tx1015 Added item to cart
+2023-08-15 14:50:05 checkout 200 120ms user5566 tx1016 Purchased Apple Watch
+2023-08-15 14:57:40 payment 400 200ms user7788 tx1017 Card declined
+2023-08-15 15:05:30 checkout 200 145ms user9900 tx1018 Purchased PlayStation 5
+2023-08-15 15:12:10 cart 200 95ms user1234 tx1019 Added item to cart
+2023-08-15 15:18:45 checkout 500 470ms user2233 tx1020 Internal server error
+2023-08-15 15:25:55 checkout 200 130ms user4455 tx1021 Purchased Dell XPS Laptop
+2023-08-15 15:32:40 payment 200 240ms user6677 tx1022 Payment successful
+2023-08-15 15:38:15 checkout 400 110ms user8899 tx1023 Invalid shipping address
+2023-08-15 15:45:50 cart 200 75ms user1122 tx1024 Added item to cart
+2023-08-15 15:52:30 checkout 200 155ms user3344 tx1025 Purchased Nintendo Switch
+2023-08-15 15:59:05 payment 500 420ms user5566 tx1026 Payment gateway timeout
+2023-08-15 16:05:20 checkout 200 125ms user7788 tx1027 Purchased Bose Headphones
+2023-08-15 16:10:45 cart 200 85ms user9900 tx1028 Added item to cart
+2023-08-15 16:18:30 checkout 200 140ms user1234 tx1029 Purchased Google Pixel 7
